@@ -1,6 +1,4 @@
 *.pyc
-<<<<<<< HEAD
-=======
 *.sqlite3
 .idea
 __pycache__
@@ -8,4 +6,3 @@ __pycache__
 .venv
 medias/*
 
->>>>>>> name/master
